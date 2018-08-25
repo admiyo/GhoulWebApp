@@ -2,5 +2,5 @@
     pageEncoding="UTF-8"%>
 { 
   "Means": "Integrated",
-  "Version": "1.0.0"
+  "Version": "1.1.0"
  }
