@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Guarded</h2>
+<h2>Integrated</h2>
 </body>
 </html>
