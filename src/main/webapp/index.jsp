@@ -1,5 +1,3 @@
-<html>
-<body>
-<h2>Integrated</h2>
-</body>
-</html>
+<%@ page language="java" contentType="application/json; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+["Integrated"]
